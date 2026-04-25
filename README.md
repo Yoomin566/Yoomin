@@ -1,5 +1,4 @@
 # Yoomin
-# 👋 Hi, I'm Yoomin
 
 AI student | I build things I actually want to use | Always learning 🚀
 
