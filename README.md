@@ -14,4 +14,4 @@ AI student from the Maldives 🇲🇻 | I build things I actually want to use | 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 ## 🚀 Projects
-- 🎯 **ValorantIQ** — AI powered Valorant performance tracker with live stats, coaching tips and player comparison
+-  **ValorantIQ** — A Valorant performance tracker with live stats, coaching tips and player comparison
