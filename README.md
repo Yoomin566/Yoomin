@@ -2,7 +2,7 @@
 My GitHub profile README
 # 👋 Hi, I'm Yoomin
 
-AI student from the Maldives 🇲🇻 | I build things I actually want to use | Always learning 🚀
+AI student from the Maldives studying in Malaysia | I build things I actually want to use | Always learning 🚀
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
