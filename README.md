@@ -13,3 +13,4 @@ AI student | I build things I actually want to use | Always learning 🚀
 
 ## 🚀 Projects
 -  **ValorantIQ** — A Valorant performance tracker with live stats, coaching tips and player comparison
+-  LINK -> https://valorantiq-78xz7yqrabkv7enhzci8p2.streamlit.app  for testing use USERNAME=yoomi TAG=inn or any other gamertag 
