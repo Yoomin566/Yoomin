@@ -1,6 +1,6 @@
 # Yoomin
 
-AI student | I build things I actually want to use | Always learning 
+AI & CS student at APU | Building ValorantIQ (Python/Streamlit) | Open to internships
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
